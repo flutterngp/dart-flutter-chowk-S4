@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784745032888",
+    "project_id": "laksh-new",
+    "storage_bucket": "laksh-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784745032888:android:259439e550c134284e584d",
+        "android_client_info": {
+          "package_name": "com.example.session3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784745032888-3rjrdcn9o107ek45irhvgberg813bmap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.session3",
+            "certificate_hash": "382a25da7778a07118b8311981450167f1e84b0c"
+          }
+        },
+        {
+          "client_id": "784745032888-7uv88c0uol52fs95tmmr1f31p55hq705.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtiFaH-JOJ5ZpeZQ2es1mm-QbA5ybIQbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784745032888-7uv88c0uol52fs95tmmr1f31p55hq705.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
